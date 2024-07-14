@@ -86,16 +86,9 @@ Changes the periodicity of the call of the `LEDM_Manage` to every 5ms and checks
 3. Run the simulation.
 4. Observe the oscilloscope output for the scenarios described above.
 
-## Authors
+## Team Members
 
-- [Your Name](https://github.com/yourprofile)
-- [Team Member 1](https://github.com/team1)
-- [Team Member 2](https://github.com/team2)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a comprehensive guide to the project, including the functionality of each component, the project structure, scenarios for testing, and steps to run and test the project. Make sure to replace placeholder links and names with actual data before uploading to GitHub.
+- [Rana Hany](https://github.com/RanaHany10)
+- [Sarah Ibrahim](https://github.com/sarah1ibrahim)
+- [Salma Ashraf](https://github.com/Salma-me)
+- [Yasmin Tarek](https://github.com/JasmineTJ)
